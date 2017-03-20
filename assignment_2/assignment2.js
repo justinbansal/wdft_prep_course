@@ -33,13 +33,6 @@ for (var i=0;i<triangle.length;i++) {
      console.log[i];
     }
     
-// This has to be the one!
-
-var triangle = ["#","##","###","####","#####","######","#######"];
-for (var i=0;i<triangle.length;i++) {
-     console.log([i])
-    }
-    
 // Got it!
 var triangle = ["#","##","###","####","#####","######","#######"];
 for (var i=0;i<triangle.length;i++) {
