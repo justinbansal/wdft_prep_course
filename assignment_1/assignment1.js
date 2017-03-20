@@ -45,12 +45,10 @@ var sum = 0;
 
 while(numbers.length != 0){
     //write pop function here
-    numbers.pop();
+    sum += numbers.pop();
 }
 
 
-
-sum += numbers.pop();
 console.log(sum);
 
 
